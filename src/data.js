@@ -51,10 +51,29 @@ export const testimonials = [
 ];
 
 export const skills = [
+  "HTML5 + CSS3-Bootstrap/TailWindCSS",
   "JavaScript",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Core Java",
+  "DBMS-Postgresql",
+  "AWS",
+  "Git/GitHub",
+];
+
+export const experience = [
+  {
+    company: "Infosys, Hyderabad.",
+    duration: "Jan 2015 - Oct 2016",
+    tech: "React + Java",
+  },
+  {
+    company: "Maternity Break",
+    duration: "Nov 2016 - Dec 2022",
+    tech: "Career break (Full time parenting)",
+  },
+  {
+    company: "Besant Tech, Banglore",
+    duration: "Dec 2022 - Ongoing",
+    tech: "Full-Stack Developement",
+  },
 ];
