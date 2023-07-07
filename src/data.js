@@ -47,18 +47,18 @@ export const skills = [
 
 export const experience = [
   {
-    company: "Infosys, Hyderabad.",
+    company: "Infosys, Hyderabad",
     duration: "Jan 2015 - Oct 2016",
-    tech: "React + Java",
+    tech: "React (Web developement) + Java",
   },
   {
-    company: "Maternity Break",
+    company: "CareerBreak",
     duration: "Nov 2016 - Dec 2022",
-    tech: "Career break (Full time parenting)",
+    tech: " Maternity Break(Full time parenting)",
   },
   {
     company: "Besant Tech, Banglore",
     duration: "Dec 2022 - Ongoing",
-    tech: "Full-Stack Developement",
+    tech: "Full-Stack Developement Training",
   },
 ];
