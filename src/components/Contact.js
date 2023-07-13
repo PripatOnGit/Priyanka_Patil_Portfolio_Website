@@ -11,7 +11,7 @@ export default function Contact() {
                 Contact
                 </h1>
             <div className="bg-gray-850 relative flex flex-wrap py-6 rounded shadow-md">
-            <div className="lg:w-1/2 px-6">
+            <div className="lg:w-1/2 sm:w-1/2 md:w-1/2 px-6 text-right">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 ADDRESS:
               </h2>
@@ -20,7 +20,7 @@ export default function Contact() {
                 Karnataka (KA), India.
               </p>
             </div>
-            <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
+            <div className="lg:w-1/2 sm:w-1/2 md:w-1/2 px-6 text-left">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL:
               </h2>

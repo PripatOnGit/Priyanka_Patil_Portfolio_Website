@@ -47,18 +47,18 @@ export const skills = [
 
 export const experience = [
   {
+    company: "Besant Technologies, Banglore",
+    duration: "Nov 2022 - June 2023",
+    tech: "Full-Stack Developement Training",
+  }, {
+    company: "Career Break",
+    duration: "Nov 2016 - Nov 2022",
+    tech: "Full time parenting",
+  },
+  {
     company: "Infosys, Hyderabad",
     duration: "Jan 2015 - Oct 2016",
-    tech: "React (Web developement) + Java",
-  },
-  {
-    company: "CareerBreak",
-    duration: "Nov 2016 - Dec 2022",
-    tech: " Maternity Break(Full time parenting)",
-  },
-  {
-    company: "Besant Tech, Banglore",
-    duration: "Dec 2022 - Ongoing",
-    tech: "Full-Stack Developement Training",
-  },
+    tech: "ReactJs (Web developement) + Java",
+  }
+  
 ];
