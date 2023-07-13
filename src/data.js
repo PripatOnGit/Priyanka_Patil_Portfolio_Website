@@ -62,3 +62,17 @@ export const experience = [
   }
   
 ];
+
+export const certification = [
+  {
+    name: "Java Programming",
+    issuedby: "Besant Technologies, Banglore.",
+    description: "Java Fundamentals, Multi-threading, OOPs, Design-Patterns",
+  },
+  {
+    name: "AWS Certified Cloud Practitioner Certificate",
+    issuedby: "Udemy",
+    description: "AWS cloud Basics",
+  },
+  
+];
