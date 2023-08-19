@@ -47,10 +47,16 @@ export const skills = [
 
 export const experience = [
   {
+    company: "AWS re/Start Cohort Program (by AspireForHer)",
+    duration: "August 2022 - Ongoing",
+    tech: "AWS Certified Cloud Practitioner Exam Training",
+  },
+  {
     company: "Besant Technologies, Banglore",
-    duration: "Nov 2022 - June 2023",
+    duration: "Jan 2023 - July 2023",
     tech: "Full-Stack Developement Training",
-  }, {
+  }, 
+  {
     company: "Career Break",
     duration: "Nov 2016 - Nov 2022",
     tech: "Full time parenting",
@@ -59,8 +65,7 @@ export const experience = [
     company: "Infosys, Hyderabad",
     duration: "Jan 2015 - Oct 2016",
     tech: "ReactJs (Web developement) + Java",
-  }
-  
+  }  
 ];
 
 export const certification = [
