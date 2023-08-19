@@ -10,7 +10,7 @@ export default function Experience() {
         <div className="text-center mb-20">
           <BriefcaseIcon className="w-10 inline-block mb-4" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-12">
-           My Experience
+          Experience
           </h1>
         </div> 
         <div className="flex flex-wrap flex-center justify-center -m-4">
