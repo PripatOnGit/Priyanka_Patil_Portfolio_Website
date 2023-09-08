@@ -38,10 +38,12 @@ export const projects = [
 export const skills = [
   "HTML5 + CSS3-Bootstrap/TailWindCSS",
   "JavaScript",
-  "React",
+  "ReactJs",
   "Core Java",
-  "DBMS-Postgresql",
+  "Python -Flask",
+  "DBMS-PostgreSQL",
   "AWS",
+  "Linux-Bash Script",
   "Git/GitHub",
 ];
 
