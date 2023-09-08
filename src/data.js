@@ -75,11 +75,19 @@ export const certification = [
     name: "Java Programming",
     issuedby: "Besant Technologies, Banglore.",
     description: "Java Fundamentals, Multi-threading, OOPs, Design-Patterns",
+    Credentials : "https://drive.google.com/file/d/1bRKFc9B2-2sWFYKnNhvARo8WAw4uuUL_/view?usp=drive_link",
   },
   {
     name: "AWS Certified Cloud Practitioner Certificate",
     issuedby: "Udemy",
     description: "AWS cloud Basics",
+    Credentials : "https://drive.google.com/file/d/1R2Qz0KIrIoN-ZdBeL_3d6ec0tXI1TRqs/view?usp=drive_link",
+  },
+  {
+    name: "Complete Python Bootcamp",
+    issuedby: "Udemy",
+    description: "Python Programming, Pandas",
+    Credentials : "https://drive.google.com/file/d/1ZAqscduee0kUbflphh53lmWgNbZKqUh5/view?usp=drive_link",
   },
   
 ];
