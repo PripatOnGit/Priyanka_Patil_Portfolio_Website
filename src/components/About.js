@@ -11,7 +11,7 @@ export default function About(){
             Full-Stack Developer | AWS Cloud Practitioner
           </h1>
           <p className="mb-8 leading-relaxed">
-            <ul className = "list-disc">
+            <ul className = "list-disc text-lg">
               <li>I have worked for a couple of years with Infosys,Hyderabad.primarily on UI development(ReactJs), Core Java.</li>
               <li>Being On career-break(Pregnancy and Full-time parenting), to brush up and upgrade relevant technical skills, pursuing training in Full-stack Application development (ReactJs + JAVA).</li>
               <li>Excellent teamwork skills and the ability to thrive in fast-paced environments. </li>

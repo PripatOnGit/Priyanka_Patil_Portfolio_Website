@@ -19,9 +19,10 @@ export default function Certification() {
                 <BadgeCheckIcon className="text-green-400 w-6 h-6 flex-shrink-0 mr-4" />
                 <div class="  space-y-2 bg-gray-800 rounded-lg shadow-only transition-ease lg:w-11/12 px-6 py-4">
                        <h3 class="mb-3 font-bold text-white text-2xl">{certification.name}</h3>
-                       <p class="pb-4 text-sm text-gray-100">{certification.issuedby}</p>
-                       <p class="text-sm font-medium leading-snug tracking-wide text-gray-300 text-opacity-100">{certification.description}</p>
-                       <p><a href={certification.Credentials} class="text-white bg-green-500 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"> Certificate </a></p>
+                       <p class="pb-4 text-md text-gray-100">{certification.issuedby}</p>
+                       <hr></hr>
+                       <p class="text-md font-medium leading-snug tracking-wide text-gray-300 text-opacity-100">{certification.description}</p>
+                       <p><a href={certification.Credentials} class="text-white bg-green-500 hover:bg-green-700 hover:text-white focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-md px-5 py-2.5 mr-2 mb-2 dark:bg-blue-600  focus:outline-none dark:focus:ring-blue-800" target="_blank"> Certificate </a></p>
                        
                    </div>
               </div>

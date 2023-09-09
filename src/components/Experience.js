@@ -26,7 +26,7 @@ export default function Experience() {
                        <h3 class="mb-3 font-bold text-white text-2xl">{experience.company}</h3>
                        <p class="pb-4 text-sm text-gray-100">{experience.duration}</p>
                        <hr />
-                       <p class="text-sm font-medium leading-snug tracking-wide text-gray-300 text-opacity-100">{experience.tech}</p>
+                       <p class="text-lg font-medium leading-snug tracking-wide text-gray-300 text-opacity-100">{experience.tech}</p>
                    </div>
                </div>
            </div>
